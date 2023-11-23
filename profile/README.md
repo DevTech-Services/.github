@@ -16,7 +16,7 @@ We specialize in:
 - Modifying the core features to our advantage
 ## 🚧 Creations
 - Devhub, a proxy with high speeds and many tools
-- DevHaxx, a in-beta i-Ready tool
+- DevHaxx, a i-Ready utility
 ---
 
 <p align="center">
