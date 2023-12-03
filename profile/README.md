@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://dariandev.com">
+  <a href="https://devhaxx.xyz">
     <img alt="DevTech Services" src="https://github.com/DevTech-Services/.github/blob/main/profile/theDevs.png?raw=true">
   </a>
 </p>
