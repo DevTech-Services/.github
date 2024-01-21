@@ -15,10 +15,10 @@ We specialize in:
 - Exploiting Code
 - Modifying the core features to our advantage
 ## 🚧 Creations
-- Devhub, a proxy with high speeds and many tools
 - DevHaxx, a i-Ready utility
+- Devhub, a proxy with high speeds and many tools (archived)
 ---
 
 <p align="center">
-  &copy; 2023 DevTech Services. All rights reserved.
+  &copy; 2024 DevTech Services. All rights reserved.
 </p>
