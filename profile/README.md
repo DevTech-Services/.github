@@ -8,7 +8,7 @@
 <p align="center">
 
 ## 🚀 About Us
-DevTech Services is a small group of hobbyist programmers/developers.
+DevTech Services WAS a small group of hobbyist programmers/developers.
 ## 🌐 Our Expertise
 We specialize in:
 - Cybersecurity
